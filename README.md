@@ -56,11 +56,3 @@ I am currently focused on enhancing my skills as a full stack developer. I am pa
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Resky220504&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
-</div>
